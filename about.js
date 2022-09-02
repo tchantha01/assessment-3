@@ -9,7 +9,6 @@ function handleSubmit(evt) {
 	console.log('form submit');
 }
 
-
 let form = document.querySelector('#contact');
 
 form.addEventListener('submit', handleSubmit);
@@ -17,7 +16,7 @@ form.addEventListener('submit', handleSubmit);
 function imgAlert(event)  {
 	
 	alert('That tickles!')
-	
+
 }
 
 let rubberDucky = document.querySelector('img')
