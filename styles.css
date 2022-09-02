@@ -41,4 +41,9 @@ img {
 	height: 50px;
 	padding: 0;
 	background: yellow;
+	border-radius: 10px;
+	overflow: hidden;
+	
+
+	
  }
