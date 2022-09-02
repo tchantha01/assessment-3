@@ -1,5 +1,6 @@
 
 
+
 let favColor = document.querySelector('#color')
 let favPlace = document.querySelector('#place')
 let favRitual = document.querySelector('#ritual')
