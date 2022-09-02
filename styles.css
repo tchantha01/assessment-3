@@ -38,7 +38,8 @@ img {
 }
 
 .htmlCss {
-	height: 50px;
+	height: 3vw;
+	width: 3vw;
 	padding: 0;
 	background: yellow;
 	border-radius: 10px;
